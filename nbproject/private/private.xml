@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/gettime.me/app/Http/Controllers/ChannelController.php</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/gettime.me/database/migrations/2020_04_02_104121_create_guides_table.php</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/gettime.me/app/Http/Controllers/GuideController.php</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/gettime.me/resources/views/guide.php</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/gettime.me/resources/js/vue_script.js</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/gettime.me/app/Console/Kernel.php</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/gettime.me/app/Http/Services/GuideService.php</file>
+            <file>file:/C:/Users/Artur/Documents/NetBeansProjects/gettime.me/app/Http/Services/ChannelService.php</file>
+        </group>
+    </open-files>
+</project-private>
